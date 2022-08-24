@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="Nctgu7fvw0biilWwBUgl76qGW0aIZgf5HPXl8WALSm0" />
+
 # [Skkeleton-azik](https://github.com/shg-eo/skkeleton-azik)
 
 Skkeleton-azik.vim is roman ("rom") mapping of [AZIK](http://hp.vector.co.jp/authors/VA002116/azik/azikinfo.htm).  

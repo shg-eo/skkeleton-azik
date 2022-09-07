@@ -1,6 +1,7 @@
 # [Skkeleton-azik](https://github.com/shg-eo/skkeleton-azik)
 
-[AZIK](http://hp.vector.co.jp/authors/VA002116/azik/azikinfo.htm)[skkeleton](https://github.com/vim-skk/skkeleton) で使用するものです。  
+[AZIK](http://hp.vector.co.jp/authors/VA002116/azik/azikinfo.htm)配列を
+[skkeleton](https://github.com/vim-skk/skkeleton) で使用するものです。  
 当然ですが、[skkeleton](https://github.com/vim-skk/skkeleton)を予め使用できるようにしてください。
 
 AZIK のマッピングは [corvusskk](https://github.com/nathancorvussolis/corvusskk) のAZIKマッピングを変換したものです。

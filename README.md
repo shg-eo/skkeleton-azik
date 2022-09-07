@@ -2,7 +2,7 @@
 
 # [Skkeleton-azik](https://github.com/shg-eo/skkeleton-azik)
 
-[日本語](Readme_JP.md)
+[日本語](README_JP.md)
 
 Skkeleton-azik.vim is roman ("rom") mapping of [AZIK](http://hp.vector.co.jp/authors/VA002116/azik/azikinfo.htm).  
 This script running under [skkeleton](https://github.com/vim-skk/skkeleton).  
